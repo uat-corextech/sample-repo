@@ -2,4 +2,3 @@ sample content
 sample content
 sample content
 sample content
-commit message from dev1renamed branch
